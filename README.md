@@ -1,9 +1,13 @@
-### Olá! Eu sou o Ageu Ribeiro 🙋
+### Projeto Eagle
 
-<p>🧑‍💻 - Atualmente buscando novos desafios </p>
-<p>👨‍🎓 - Estudando Análise e Ciência de Dados, Desenvolvimento Web FrontEnd com HTML5, CSS3, JavaScript, VueJS e Backend com as tecnologias Python, SQL, Flask  </p>
-<p>📩 - Contate-me através do e-mail: ageu87@gmail.com ou channelsystemti@gmail.com</p>
-<p>🗣️ - Pronouns: Ele/Dele</p>
+### Descrição do Projeto
+
+<p>
+  <article>
+    Este projeto é uma junção de algumas ideias obtidas no período universitário. Na época nomeamos de Projeto ASTI( Assistente de Suporte Técnico Inteligente). Tivemos vários encontros e vários desencontros. Acabei engavetando o projeto.
+    Neste ano, após me formar em Banco de Dados, resolvi retormar o projeto. 
+  </article>
+</p>
 
 <div align="center">
   <a href="https://github.com/ageuribeiro">
